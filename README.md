@@ -7,6 +7,10 @@
 **GitHub:** sanikakokatepatil-lang/SAP-MM--Auto-Parts-Project
 
 ---
+### 📊 Project Dashboard
+![SAP MM Dashboard by Sanika](SAP-MM-Dashboard-by-Sanika.png)
+
+---
 
 ### 📌 1. Executive Summary
 This project covers complete SAP Materials Management implementation for an auto spare parts manufacturing company. The main goal was to automate the manual procurement process, maintain accurate inventory, and streamline vendor management for 50+ auto parts.
